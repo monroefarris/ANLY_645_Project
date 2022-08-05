@@ -1,0 +1,202 @@
+﻿Season,Episode,Contestants,ChW,ChA,SO,VFB,VAP,TotV,TCA,TCV,VFT,InRCA,InRCW,InICA,InICW,TRCA,TRCW,TICA,TICW,Reward win?,Reward #people,Reward win%,Immunity win,Immunity #people,Immunity win%,Immunity total win%,Sex,Age,Occupation,Hometown,Home State,Original Tribe,Merged,Tribe
+36,1,Brendan Shapiro,0.333333333,0.433333333,,1,,9,1,Gonzalez,1,,,,,1,1,1,,1,3,0.333333333,0,10,0,0.333333333,M,40,Physical Education Teacher,Herndon,VA,Malolo,FALSE,Malolo
+,1,Donathan Hurley,0,0.1,,1,1,9,1,Gonzalez,,,,,,,,1,,,,,0,10,0,0,M,25,Caretaker,Kimper,KY,Malolo,FALSE,Malolo
+,1,Jacob Derwin,0,0.1,,,,,,,,,,,,,,1,,,,,0,10,0,0,M,22,Music Teacher,Brooklyn,NY,Malolo,FALSE,Malolo
+,1,James Lim,0,0.1,,1,,9,1,Gonzalez,1,,,,,,,1,,,,,0,10,0,0,M,24,Business Analyst,New York City,NY,Malolo,FALSE,Malolo
+,1,Jenna Bowman,0,0.1,,1,,9,1,Gonzalez,1,,,,,,,1,,,,,0,10,0,0,F,23,Advertising Account Executive,Venice Beach,CA,Malolo,FALSE,Malolo
+,1,Laurel Johnson,0.333333333,0.433333333,,1,,9,1,Gonzalez,1,,,,,1,1,1,,1,3,0.333333333,0,10,0,0.333333333,F,29,Financial Consultant,Minneapolis,MN,Malolo,FALSE,Malolo
+,1,Libby Vincek,0,0.1,,1,,9,1,Gonzalez,1,,,,,,,1,,,,,0,10,0,0,F,24,Social Media Strategist,Houston,TX,Malolo,FALSE,Malolo
+,1,Michael Yerger,0.333333333,0.433333333,,1,,9,1,Gonzalez,1,,,,,1,1,1,,1,3,0.333333333,0,10,0,0.333333333,M,18,Real Estate Agent,Los Angeles,CA,Malolo,FALSE,Malolo
+,1,Stephanie Gonzalez,0,0.1,,0,8,9,1,Donathan,,,,,,,,1,,,,,0,10,0,0,F,26,Graphic Saleswoman,Ocala,FL,Malolo,FALSE,Malolo
+,1,Stephanie Johnson,0,0.1,,1,,9,1,Gonzalez,1,,,,,,,1,,,,,0,10,0,0,F,34,Yoga Instructor,Chicago,IL,Malolo,FALSE,Malolo
+,1,Angela Perkins,0.1,0.1,,,,,,,,,,,,,,1,1,,,,1,10,0.1,0.1,F,42,Army Veteran,Cincinnati,OH,Naviti,FALSE,Naviti
+,1,Bradley Kleihege,0.1,0.1,,,,,,,,,,,,,,1,1,,,,1,10,0.1,0.1,M,26,Law Student,Los Angeles,CA,Naviti,FALSE,Naviti
+,1,Chelsea Townsend,0.1,0.1,,,,,,,,,,,,,,1,1,,,,1,10,0.1,0.1,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,FALSE,Naviti
+,1,Chris Noble,0.1,0.433333333,,,,,,,,,,,,1,,1,1,0,3,0,1,10,0.1,0.1,M,27,Male Model,Brooklyn,NY,Naviti,FALSE,Naviti
+,1,Desiree Afuye,0.1,0.433333333,,,,,,,,,,,,1,,1,1,0,3,0,1,10,0.1,0.1,F,21,Student,Brooklyn,NY,Naviti,FALSE,Naviti
+,1,Domenick Abbate,0.1,0.1,,,,,,,,,,,,,,1,1,,,,1,10,0.1,0.1,M,38,Construction Supervisor,Nesconset,NY,Naviti,FALSE,Naviti
+,1,Kellyn Bechtold,0.1,0.1,,,,,,,,,,,,,,1,1,,,,1,10,0.1,0.1,F,30,Career Counselor,Denver,CO,Naviti,FALSE,Naviti
+,1,Morgan Ricke,0.1,0.1,,,,,,,,,,,,,,1,1,,,,1,10,0.1,0.1,F,29,Marine Animal Trainer,Orlando,FL,Naviti,FALSE,Naviti
+,1,Sebastian Noel,0.1,0.433333333,,,,,,,,,,,,1,,1,1,0,3,0,1,10,0.1,0.1,M,22,Fishing Guide,Satellite Beach,FL,Naviti,FALSE,Naviti
+,1,Wendell Holland,0.1,0.1,,,,,,,,,,,,,,1,1,,,,1,10,0.1,0.1,M,33,Furniture Company Owner,Philadelphia,PA,Naviti,FALSE,Naviti
+,2,Brendan Shapiro,0,0.111111111,,1,,8,1,,1,,,,,,,1,,,,,0,9,0,,M,40,Physical Education Teacher,Herndon,VA,Naviti,FALSE,Naviti
+,2,Donathan Hurley,0,0.111111111,,,,,,,,,,,,,,1,,,,,0,9,0,,M,25,Caretaker,Kimper,KY,Malolo,FALSE,Malolo
+,2,Jacob Derwin,0,0.111111111,,0,5,8,1,,,,,,,,,1,,,,,0,9,0,,M,22,Music Teacher,Brooklyn,NY,Malolo,FALSE,Malolo
+,2,James Lim,0,0.111111111,,1,2,8,1,,,,,,,,,1,,,,,0,9,0,,M,24,Business Analyst,New York City,NY,Naviti,FALSE,Naviti
+,2,Jenna Bowman,0,0.111111111,,1,,8,1,,1,,,,,,,1,,,,,0,9,0,,F,23,Advertising Account Executive,Venice Beach,CA,Malolo,FALSE,Malolo
+,2,Laurel Johnson,0,0.111111111,,1,,8,1,,1,,,,,,,1,,,,,0,9,0,,F,29,Financial Consultant,Minneapolis,MN,Naviti,FALSE,Naviti
+,2,Libby Vincek,0,0.111111111,,0,,8,1,,1,,,,,,,1,,,,,0,9,0,,F,24,Social Media Strategist,Houston,TX,Naviti,FALSE,Naviti
+,2,Michael Yerger,0,0.111111111,,0,1,8,1,,,,,,,,,1,,,,,,,,,M,18,Real Estate Agent,Los Angeles,CA,Malolo,FALSE,Malolo
+,2,Stephanie Johnson,0,0.111111111,,1,,8,1,,1,,,,,,,1,,,,,0,9,0,,F,34,Yoga Instructor,Chicago,IL,Malolo,FALSE,Malolo
+,2,Angela Perkins,0,0.111111111,1,,,,,,,,,,,,,1,,,,,,9,0,,F,42,Army Veteran,Cincinnati,OH,Naviti,FALSE,Naviti
+,2,Bradley Kleihege,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,M,26,Law Student,Los Angeles,CA,Malolo,FALSE,Malolo
+,2,Chelsea Townsend,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,FALSE,Naviti
+,2,Chris Noble,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,M,27,Male Model,Brooklyn,NY,Naviti,FALSE,Naviti
+,2,Desiree Afuye,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,F,21,Student,Brooklyn,NY,Malolo,FALSE,Malolo
+,2,Domenick Abbate,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,M,38,Construction Supervisor,Nesconset,NY,Naviti,FALSE,Naviti
+,2,Kellyn Bechtold,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,F,30,Career Counselor,Denver,CO,Naviti,FALSE,Naviti
+,2,Morgan Ricke,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,F,29,Marine Animal Trainer,Orlando,FL,Naviti,FALSE,Naviti
+,2,Sebastian Noel,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,M,22,Fishing Guide,Satellite Beach,FL,Naviti,FALSE,Naviti
+,2,Wendell Holland,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,M,33,Furniture Company Owner,Philadelphia,PA,Naviti,FALSE,Naviti
+,3,Brendan Shapiro,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,M,40,Physical Education Teacher,Herndon,VA,Naviti,FALSE,Naviti
+,3,Donathan Hurley,0,0.111111111,,1,,8,1,Morgan,,,,,,,,1,,,,,0,9,0,,M,25,Caretaker,Kimper,KY,Malolo,FALSE,Malolo
+,3,James Lim,0,0.111111111,,1,,8,1,Morgan,,,,,,,,1,,,,,0,9,0,,M,24,Business Analyst,New York City,NY,Naviti,FALSE,Naviti
+,3,Jenna Bowman,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,F,23,Advertising Account Executive,Venice Beach,CA,Malolo,FALSE,Malolo
+,3,Laurel Johnson,0,0.111111111,,1,,8,1,Morgan,,,,,,,,1,,,,,0,9,0,,F,29,Financial Consultant,Minneapolis,MN,Naviti,FALSE,Naviti
+,3,Libby Vincek,0,0.111111111,,1,1,8,1,Morgan,,,,,,,,1,,,,,0,9,0,,F,24,Social Media Strategist,Houston,TX,Naviti,FALSE,Naviti
+,3,Michael Yerger,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,M,18,Real Estate Agent,Los Angeles,CA,Malolo,FALSE,Malolo
+,3,Stephanie Johnson,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,F,34,Yoga Instructor,Chicago,IL,Malolo,FALSE,Malolo
+,3,Angela Perkins,0,0.111111111,,0,3,8,1,Libby,,,,,,,,1,,,,,0,9,0,,F,42,Army Veteran,Cincinnati,OH,Naviti,FALSE,Naviti
+,3,Bradley Kleihege,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,M,26,Law Student,Los Angeles,CA,Malolo,FALSE,Malolo
+,3,Chelsea Townsend,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,FALSE,Naviti
+,3,Chris Noble,0,0.111111111,,,,,,,,,,,,,,1,,,,,0,9,0,,M,27,Male Model,Brooklyn,NY,Naviti,FALSE,Naviti
+,3,Desiree Afuye,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,F,21,Student,Brooklyn,NY,Malolo,FALSE,Malolo
+,3,Domenick Abbate,0,0.111111111,,0,,8,1,Angela,,,,,,,,1,,,,,0,9,0,,M,38,Construction Supervisor,Nesconset,NY,Naviti,FALSE,Naviti
+,3,Kellyn Bechtold,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,F,30,Career Counselor,Denver,CO,Naviti,FALSE,Naviti
+,3,Morgan Ricke,0,0.111111111,,0,4,8,1,Angela,,,,,,,,1,,,,,0,9,0,,F,29,Marine Animal Trainer,Orlando,FL,Naviti,FALSE,Naviti
+,3,Sebastian Noel,0.111111111,0.111111111,,,,,,,,,,,,,,1,1,,,,1,9,0.111111111,,M,22,Fishing Guide,Satellite Beach,FL,Naviti,FALSE,Naviti
+,3,Wendell Holland,0,0.111111111,,0,,8,1,Angela,,,,,,,,1,,,,,0,9,0,,M,33,Furniture Company Owner,Philadelphia,PA,Naviti,FALSE,Naviti
+,4,Brendan Shapiro,0,0.25,,0,5,9,,Bradley,1,,,,,1,,1,,0,8,0,0,8,0,0,M,40,Physical Education Teacher,Herndon,VA,Naviti,FALSE,Naviti
+,4,Donathan Hurley,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,25,Caretaker,Kimper,KY,Malolo,FALSE,Malolo
+,4,James Lim,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,24,Business Analyst,New York City,NY,Naviti,FALSE,Naviti
+,4,Jenna Bowman,0,0.25,,0,,9,1,Bradley,1,1,,,,1,,1,,0,8,0,0,8,0,0,F,23,Advertising Account Executive,Venice Beach,CA,Malolo,FALSE,Malolo
+,4,Laurel Johnson,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,F,29,Financial Consultant,Minneapolis,MN,Naviti,FALSE,Naviti
+,4,Libby Vincek,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,F,24,Social Media Strategist,Houston,TX,Naviti,FALSE,Naviti
+,4,Michael Yerger,0,0.25,,0,,9,1,Bradley,1,1,,,,1,,1,,0,8,0,0,8,0,0,M,18,Real Estate Agent,Los Angeles,CA,Malolo,FALSE,Malolo
+,4,Stephanie Johnson,0,0.25,,0,,9,1,Bradley,1,1,,,,1,,1,,0,8,0,0,8,0,0,F,34,Yoga Instructor,Chicago,IL,Malolo,FALSE,Malolo
+,4,Angela Perkins,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,F,42,Army Veteran,Cincinnati,OH,Naviti,FALSE,Naviti
+,4,Bradley Kleihege,0,0.25,,1,4,9,,Brendan,1,,,,,1,,1,,0,8,0,0,8,0,0,M,26,Law Student,Los Angeles,CA,Malolo,FALSE,Malolo
+,4,Chelsea Townsend,0,0.25,1,1,,9,,Brendan,1,,,,,1,,1,,,8,0,0,8,0,0,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,FALSE,Naviti
+,4,Chris Noble,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,27,Male Model,Brooklyn,NY,Naviti,FALSE,Naviti
+,4,Desiree Afuye,0,0.25,1,1,,9,,Brendan,1,,,,,1,,1,,0,8,0,,8,0,0,F,21,Student,Brooklyn,NY,Malolo,FALSE,Malolo
+,4,Domenick Abbate,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,38,Construction Supervisor,Nesconset,NY,Naviti,FALSE,Naviti
+,4,Kellyn Bechtold,0,0.25,,1,,9,,Brendan,1,,,,,1,,1,,0,8,0,0,8,0,0,F,30,Career Counselor,Denver,CO,Naviti,FALSE,Naviti
+,4,Sebastian Noel,0,0.25,,1,,9,,Brendan,1,,,,,1,,1,,0,8,0,0,8,0,0,M,22,Fishing Guide,Satellite Beach,FL,Naviti,FALSE,Naviti
+,4,Wendell Holland,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,33,Furniture Company Owner,Philadelphia,PA,Naviti,FALSE,Naviti
+,5,Brendan Shapiro,,,,,,,,,,,,,,,,,,,,,,,,,M,40,Physical Education Teacher,Herndon,VA,Naviti,FALSE,Naviti
+,5,Donathan Hurley,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,25,Caretaker,Kimper,KY,Malolo,FALSE,Malolo
+,5,James Lim,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,24,Business Analyst,New York City,NY,Naviti,FALSE,Naviti
+,5,Jenna Bowman,0,0.25,,1,,8,1,Stephanie,1,,,,,1,,1,,0,8,0,0,8,0,0,F,23,Advertising Account Executive,Venice Beach,CA,Malolo,FALSE,Malolo
+,5,Laurel Johnson,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,F,29,Financial Consultant,Minneapolis,MN,Naviti,FALSE,Naviti
+,5,Libby Vincek,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,F,24,Social Media Strategist,Houston,TX,Naviti,FALSE,Naviti
+,5,Michael Yerger,0,0.25,,1,,8,1,Stephanie,1,,,,,1,,1,,0,8,0,0,8,0,0,M,18,Real Estate Agent,Los Angeles,CA,Malolo,FALSE,Malolo
+,5,Stephanie Johnson,0,0.25,,0,7,8,1,Desiree,,,,,,1,,1,,0,8,0,0,8,0,0,F,34,Yoga Instructor,Chicago,IL,Malolo,FALSE,Malolo
+,5,Angela Perkins,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,F,42,Army Veteran,Cincinnati,OH,Naviti,FALSE,Naviti
+,5,Bradley Kleihege,0,0.25,,1,,8,1,Stephanie,1,,,,,1,,1,,0,8,0,0,8,0,0,M,26,Law Student,Los Angeles,CA,Malolo,FALSE,Malolo
+,5,Chelsea Townsend,0,0.25,,1,,8,1,Stephanie,1,,,,,1,,1,,0,8,0,0,8,0,0,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,FALSE,Naviti
+,5,Chris Noble,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,27,Male Model,Brooklyn,NY,Naviti,FALSE,Naviti
+,5,Desiree Afuye,0,0.25,,1,1,8,1,Stephanie,,,,,,1,,1,,0,8,0,0,8,0,0,F,21,Student,Brooklyn,NY,Malolo,FALSE,Malolo
+,5,Domenick Abbate,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,38,Construction Supervisor,Nesconset,NY,Naviti,FALSE,Naviti
+,5,Kellyn Bechtold,0,0.25,,1,,8,1,Stephanie,1,,,,,1,,1,,0,8,0,0,8,0,0,F,30,Career Counselor,Denver,CO,Naviti,FALSE,Naviti
+,5,Sebastian Noel,0,0.25,,1,,8,1,Stephanie,1,,,,,1,,1,,0,8,0,0,8,0,0,M,22,Fishing Guide,Satellite Beach,FL,Naviti,FALSE,Naviti
+,5,Wendell Holland,0.25,0.25,,,,,,,,,,,,1,1,1,1,1,8,0.125,1,8,0.125,0.25,M,33,Furniture Company Owner,Philadelphia,PA,Naviti,FALSE,Naviti
+,6,Donathan Hurley,0.1,0.2,,,,,,,,,,,,,,1,,,,,0.5,5,0.1,,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,6,James Lim,0,0.2,,0,4,5,1,Desiree,,,,,,,,1,,,,,0,5,0,,M,24,Business Analyst,New York City,NY,Naviti,TRUE,Lavita
+,6,Jenna Bowman,0.2,0.2,,,,,,,,,,,,,,1,1,,,,1,5,0.2,,F,23,Advertising Account Executive,Venice Beach,CA,Yanuya,TRUE,Lavita
+,6,Laurel Johnson,0.2,0.2,,,,,,,,,,,,,,1,1,,,,1,5,0.2,,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,6,Libby Vincek,0.1,0.2,,,,,,,,,,,,,,1,,,,,0.5,5,0.1,,F,24,Social Media Strategist,Houston,TX,Naviti,TRUE,Lavita
+,6,Michael Yerger,0,0.2,,1,,5,1,James,1,,,,,,,1,,,,,0,5,0,,M,18,Real Estate Agent,Los Angeles,CA,Malolo,TRUE,Lavita
+,6,Angela Perkins,0,0.2,,1,,5,1,James,1,,,,,,,1,,,,,0,5,0,,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,6,Bradley Kleihege,0.1,0.2,,,,,,,,,,,,,,1,,,,,0.5,5,0.1,,M,26,Law Student,Los Angeles,CA,Malolo,TRUE,Lavita
+,6,Chelsea Townsend,0.1,0.2,,,,,,,,,,,,,,1,,,,,0.5,5,0.1,,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,TRUE,Lavita
+,6,Chris Noble,0.2,0.2,,,,,,,,,,,,,,1,1,,,,1,5,0.2,,M,27,Male Model,Brooklyn,NY,Yanuya,TRUE,Lavita
+,6,Desiree Afuye,0,0.2,,1,1,5,1,James,,,,,,,,1,,,,,0,5,0,,F,21,Student,Brooklyn,NY,Malolo,TRUE,Lavita
+,6,Domenick Abbate,0.1,0.2,,,,,,,,,,,,,,1,,,,,0.5,5,0.1,,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,6,Kellyn Bechtold,0,0.2,,1,,5,1,James,1,,,,,,,1,,,,,0,5,0,,F,30,Career Counselor,Denver,CO,Naviti,TRUE,Lavita
+,6,Sebastian Noel,0.2,0.2,,,,,,,,,,,,,,1,1,,,,1,5,0.2,,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,6,Wendell Holland,0.2,0.2,,,,,,,,,,,,,,1,1,,,,1,5,0.2,,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,7,Donathan Hurley,0.25,0.5,,1,,5,1,Bradley,1,,,,,1,1,1,,1,4,0.25,0,4,0,0.25,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,7,Jenna Bowman,0.125,0.5,1,,,,,,,,,,,1,,1,,0.5,4,0.125,,4,0,0.125,F,23,Advertising Account Executive,Venice Beach,CA,Yanuya,TRUE,Lavita
+,7,Laurel Johnson,0.25,0.5,1,,,,,,,,,,,1,,1,1,,4,0,1,4,0.25,0.25,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,7,Libby Vincek,0.25,0.5,,1,1,5,1,Bradley,,,,,,1,1,1,,1,4,0.25,0,4,0,0.25,F,24,Social Media Strategist,Houston,TX,Naviti,TRUE,Lavita
+,7,Michael Yerger,0.125,0.5,,,,,,,,,,,,1,,1,,0,4,0,0.5,4,0.125,0.125,M,18,Real Estate Agent,Los Angeles,CA,Malolo,TRUE,Lavita
+,7,Angela Perkins,0.125,0.5,,,,,,,,,,,,1,,1,,0,4,0,0.5,4,0.125,0.125,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,7,Bradley Kleihege,0.25,0.5,,0,4,5,1,Libby,,,,,,1,1,1,,1,4,0.25,0,4,0,0.25,M,26,Law Student,Los Angeles,CA,Malolo,TRUE,Lavita
+,7,Chelsea Townsend,0.25,0.5,1,1,,5,1,Bradley,1,,,,,1,1,1,,1,4,0.25,,4,0,0.25,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,TRUE,Lavita
+,7,Chris Noble,0.375,0.5,,,,,,,,,,,,1,,1,1,0.5,4,0.125,1,4,0.25,0.375,M,27,Male Model,Brooklyn,NY,Yanuya,TRUE,Lavita
+,7,Desiree Afuye,0.125,0.5,,,,,,,,,,,,1,,1,,0,4,0,0.5,4,0.125,0.125,F,21,Student,Brooklyn,NY,Malolo,TRUE,Lavita
+,7,Domenick Abbate,0,0.5,1,1,,5,1,Bradley,1,,,,,1,,1,,,4,0,0,4,0,0,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,7,Kellyn Bechtold,0.125,0.5,,,,,,,,,,,,1,,1,,0,4,0,0.5,4,0.125,0.125,F,30,Career Counselor,Denver,CO,Naviti,TRUE,Lavita
+,7,Sebastian Noel,0.375,0.5,,,,,,,,,,,,1,,1,1,0.5,4,0.125,1,4,0.25,0.375,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,7,Wendell Holland,0.375,0.5,,,,,,,,,,,,1,,1,1,0.5,4,0.125,1,4,0.25,0.375,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,8,Donathan Hurley,0,1,,1,,13,1,Chris,1,,,1,,,,,,,,,,1,0,,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,8,Jenna Bowman,0,1,,1,,13,1,Chris,1,,,1,,,,,,,,,,1,0,,F,23,Advertising Account Executive,Venice Beach,CA,Yanuya,TRUE,Lavita
+,8,Laurel Johnson,0,1,,1,,13,1,Chris,1,,,1,,,,,,,,,,1,0,,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,8,Libby Vincek,0,1,,1,2,13,1,Chris,,,,1,,,,,,,,,,1,0,,F,24,Social Media Strategist,Houston,TX,Naviti,TRUE,Lavita
+,8,Michael Yerger,0,1,,1,,13,1,Chris,1,,,1,,,,,,,,,,1,0,,M,18,Real Estate Agent,Los Angeles,CA,Malolo,TRUE,Lavita
+,8,Angela Perkins,0,1,,0,,13,1,Libby,1,,,1,,,,,,,,,,1,0,,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,8,Chelsea Townsend,0,1,,1,,13,1,Chris,1,,,1,,,,,,,,,,1,0,,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,TRUE,Lavita
+,8,Chris Noble,0,1,,,10,13,1,,,,,1,,,,,,,,,,1,0,,M,27,Male Model,Brooklyn,NY,Yanuya,TRUE,Lavita
+,8,Desiree Afuye,0,1,,0,,13,1,Libby,1,,,1,,,,,,,,,,1,0,,F,21,Student,Brooklyn,NY,Malolo,TRUE,Lavita
+,8,Domenick Abbate,0,1,,1,,13,1,Chris,1,,,1,,,,,,,,,,1,0,,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,8,Kellyn Bechtold,1,1,,1,,13,1,Chris,1,,,1,1,,,,,,,,1,1,1,,F,30,Career Counselor,Denver,CO,Naviti,TRUE,Lavita
+,8,Sebastian Noel,0,1,,1,,13,1,Chris,1,,,1,,,,,,,,,,1,0,,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,8,Wendell Holland,0,1,,1,,13,1,Chris,1,,,1,,,,,,,,,,1,0,,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,9,Donathan Hurley,0.166666667,1.166666667,,0,,12,1,Michael,1,,,1,,1,,,1,1,6,0.166666667,,1,0,0.166666667,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,9,Jenna Bowman,0,1.166666667,,0,,12,1,Michael,1,,,1,,1,,,,0,6,0,,1,0,0,F,23,Advertising Account Executive,Venice Beach,CA,Yanuya,TRUE,Lavita
+,9,Laurel Johnson,0.166666667,1.166666667,,1,,12,1,Libby,1,,,1,,1,,,1,1,6,0.166666667,,1,0,0.166666667,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,9,Libby Vincek,0.166666667,1.166666667,,0,4,12,1,Michael,,,,1,,1,,,1,1,6,0.166666667,,1,0,0.166666667,F,24,Social Media Strategist,Houston,TX,Naviti,TRUE,Lavita
+,9,Michael Yerger,0,1.166666667,,0,0,12,1,Wendell,,,,1,,1,,,,0,6,0,,1,0,0,M,18,Real Estate Agent,Los Angeles,CA,Malolo,TRUE,Lavita
+,9,Angela Perkins,1.166666667,1.166666667,,0,,12,1,Michael,1,,,1,1,1,,,1,1,6,0.166666667,1,1,1,1.166666667,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,9,Chelsea Townsend,0.166666667,1.166666667,,1,,12,1,Libby,1,,,1,,1,,,1,1,6,0.166666667,,1,0,0.166666667,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,TRUE,Lavita
+,9,Desiree Afuye,0,1.166666667,,1,,12,1,Libby,1,,,1,,1,,,,0,6,0,,1,0,0,F,21,Student,Brooklyn,NY,Malolo,TRUE,Lavita
+,9,Domenick Abbate,0,1.166666667,,0,,12,1,Michael,1,,,1,,1,,,,0,6,0,,1,0,0,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,9,Kellyn Bechtold,0,1.166666667,,1,,12,1,Libby,1,,,1,,1,,,,0,6,0,,1,0,0,F,30,Career Counselor,Denver,CO,Naviti,TRUE,Lavita
+,9,Sebastian Noel,0,1.166666667,,0,,12,1,Michael,1,,,1,,1,,,,0,6,0,,1,0,0,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,9,Wendell Holland,0.166666667,1.166666667,,0,1,12,1,Michael,,,,1,,1,,,1,1,6,0.166666667,,1,0,0.166666667,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,10,Donathan Hurley,0,1.2,,1,,10,1,Desiree,1,,,1,,1,,,,,5,0,0,1,0,0,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,10,Jenna Bowman,0.2,1.2,,1,,10,1,Desiree,1,,,1,,1,1,,,1,5,0.2,0,1,0,0.2,F,23,Advertising Account Executive,Venice Beach,CA,Yanuya,TRUE,Lavita
+,10,Laurel Johnson,0,1.2,,1,,10,1,Desiree,1,,,1,,1,,,,0,5,0,0,1,0,0,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,10,Michael Yerger,0.2,1.2,,1,2,10,1,Desiree,,,,1,,1,1,,,1,5,0.2,0,1,0,0.2,M,18,Real Estate Agent,Los Angeles,CA,Malolo,TRUE,Lavita
+,10,Angela Perkins,0,1.2,,0,,10,0,,1,,,1,,1,,,,0,5,0,0,1,0,0,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,10,Chelsea Townsend,1.2,1.2,,0,,10,1,Michael,1,,,1,1,1,1,,,1,5,0.2,1,1,1,1.2,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,TRUE,Lavita
+,10,Desiree Afuye,0,1.2,,0,8,10,1,Michael,1,,,1,,1,,,,0,5,0,0,1,0,0,F,21,Student,Brooklyn,NY,Malolo,TRUE,Lavita
+,10,Domenick Abbate,0,1.2,,1,,10,1,Desiree,1,,,1,,1,,,,0,5,0,0,1,0,0,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,10,Kellyn Bechtold,0.2,1.2,,1,,10,1,Desiree,1,,,1,,1,1,,,1,5,0.2,0,1,0,0.2,F,30,Career Counselor,Denver,CO,Naviti,TRUE,Lavita
+,10,Sebastian Noel,0.2,1.2,,1,,10,1,Desiree,1,,,1,,1,1,,,1,5,0.2,0,1,0,0.2,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,10,Wendell Holland,0,1.2,,1,,10,1,Desiree,1,,,1,,1,,,,0,5,0,0,1,0,0,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,11.1,Donathan Hurley,0,1,,0,0,5,1,Sebastian,,,,1,,,,,,,,,0,1,0,,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,11.1,Jenna Bowman,0,1,,0,3,5,1,,,,,1,,,,,,,,,0,1,0,,F,23,Advertising Account Executive,Venice Beach,CA,Yanuya,TRUE,Lavita
+,11.1,Laurel Johnson,0,1,,0,2,6,1,,,,,1,,,,,,,,,0,1,0,,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,11.1,Michael Yerger,0,1,,0,2,6,1,,,,,1,,,,,,,,,0,1,0,,M,18,Real Estate Agent,Los Angeles,CA,Malolo,TRUE,Lavita
+,11.1,Angela Perkins,0,1,,1,,5,1,Jenna,1,,,1,,,,,,,,,0,1,0,,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,11.1,Chelsea Townsend,1,1,,1,,5,1,Jenna,1,,,1,1,,,,,,,,1,1,1,,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,TRUE,Lavita
+,11.1,Domenick Abbate,1,1,,1,,6,1,,1,,,1,1,,,,,,,,1,1,1,,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,11.1,Kellyn Bechtold,0,1,,0,1,6,2,,,,,1,,,,,,,,,0,1,0,,F,30,Career Counselor,Denver,CO,Naviti,TRUE,Lavita
+,11.1,Sebastian Noel,0,1,,1,1,5,1,Jenna,,,,1,,,,,,,,,0,1,0,,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,11.1,Wendell Holland,0,1,,1,1,6,1,,,,,1,,,,,,,,,0,1,0,,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,11.2,Donathan Hurley,0,1,,0,0,5,1,,,,,1,,,,,,,,,0,1,0,,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,11.2,Laurel Johnson,0,1,,0,2,6,1,Kellyn,,,,1,,,,,,,,,0,1,0,,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,11.2,Michael Yerger,0,1,,0,2,6,1,Wendell,,,,1,,,,,,,,,0,1,0,,M,18,Real Estate Agent,Los Angeles,CA,Malolo,TRUE,Lavita
+,11.2,Angela Perkins,0,1,,1,,5,1,,1,,,1,,,,,,,,,0,1,0,,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,11.2,Chelsea Townsend,1,1,,1,,5,1,,1,,,1,1,,,,,,,,1,1,1,,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,TRUE,Lavita
+,11.2,Domenick Abbate,1,1,,1,,6,1,Michael,1,,,1,1,,,,,,,,1,1,1,,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,11.2,Kellyn Bechtold,0,1,,0,1,6,2,Michael,,,,1,,,,,,,,,0,1,0,,F,30,Career Counselor,Denver,CO,Naviti,TRUE,Lavita
+,11.2,Sebastian Noel,0,1,,1,1,5,1,,,,,1,,,,,,,,,0,1,0,,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,11.2,Wendell Holland,0,1,,1,1,6,1,Michael,,,,1,,,,,,,,,0,1,0,,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,12,Donathan Hurley,0,2,,1,,8,1,Chelsea,1,1,,1,,,,,,0,1,0,0,1,0,0,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,12,Laurel Johnson,0,2,,1,,8,1,Chelsea,1,1,,1,,,,,,0,1,0,0,1,0,0,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,12,Angela Perkins,0,2,,0,,8,1,Wendell,1,1,,1,,,,,,0,1,0,0,1,0,0,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,12,Chelsea Townsend,0,2,,0,5,8,1,Wendell,,1,,1,,,,,,0,1,0,0,1,0,0,F,25,EMT/Pro Cheerleader,Los Angeles,CA,Naviti,TRUE,Lavita
+,12,Domenick Abbate,1,2,,1,,8,1,Chelsea,1,1,,1,1,,,,,0,1,0,1,1,1,1,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,12,Kellyn Bechtold,0,2,,0,,8,1,Wendell,1,1,,1,,,,,,0,1,0,0,1,0,0,F,30,Career Counselor,Denver,CO,Naviti,TRUE,Lavita
+,12,Sebastian Noel,1,2,,1,,8,1,Chelsea,1,1,1,1,,,,,,1,1,1,0,1,0,1,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,12,Wendell Holland,0,2,,1,3,8,1,Chelsea,,1,,1,,,,,,0,1,0,0,1,0,0,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,13,Donathan Hurley,0,1.5,,0,3,7,1,Domenick,,,,1,,1,,,,0,2,0,0,1,0,0,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,13,Laurel Johnson,1,1.5,,1,,7,1,Kellyn,1,,,1,1,1,,,,0,2,0,1,1,1,1,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,13,Angela Perkins,0,1.5,1,0,,7,1,Kellyn,1,,,1,,1,,,,,2,0,0,1,0,0,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,13,Domenick Abbate,0.5,1.5,,1,1,7,1,Kellyn,,,,1,,1,1,,,1,2,0.5,0,1,0,0.5,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,13,Kellyn Bechtold,0,1.5,,0,3,7,1,Donathan,,,,1,,1,,,,0,2,0,0,1,0,0,F,30,Career Counselor,Denver,CO,Naviti,TRUE,Lavita
+,13,Sebastian Noel,0,1.5,,0,,7,1,Donathan,1,,,1,,1,,,,0,2,0,0,1,0,0,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,13,Wendell Holland,0.5,1.5,,1,,7,1,Kellyn,1,,,1,,1,1,,,1,2,0.5,0,1,0,0.5,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,14.1,Donathan Hurley,0,2,,0,5,11,2,Domenick,,,,2,,,,,,,,,0,1,0,,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,14.1,Laurel Johnson,0,3,,2,0,11,2,Sebastian,2,,,3,,,,,,,,,0,1,0,,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,14.1,Angela Perkins,0,3,,2,,11,2,Sebastian,2,,,3,,,,,,,,,0,1,0,,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,14.1,Domenick Abbate,1,3,,2,1,11,2,Sebastian,1,,,3,1,,,,,,,,0,1,0,,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,14.1,Sebastian Noel,0,1,,0,4,6,1,Donathan,,,,1,,,,,,,,,0,1,0,,M,22,Fishing Guide,Satellite Beach,FL,Yanuya,TRUE,Lavita
+,14.1,Wendell Holland,2,3,,2,,11,2,Sebastian,2,,,3,2,,,,,,,,1,1,1,,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita
+,14.2,Donathan Hurley,0,2,,0,5,11,2,,,,,2,,,,,,,,,0,1,0,,M,25,Caretaker,Kimper,KY,Malolo,TRUE,Lavita
+,14.2,Laurel Johnson,0,3,,2,0,11,2,Donathan,2,,,3,,,,,,,,,0,1,0,,F,29,Financial Consultant,Minneapolis,MN,Yanuya,TRUE,Lavita
+,14.2,Angela Perkins,0,3,,2,,11,2,Donathan,2,,,3,,,,,,,,,0,1,0,,F,42,Army Veteran,Cincinnati,OH,Naviti,TRUE,Lavita
+,14.2,Domenick Abbate,1,3,,2,1,11,2,Donathan,1,,,3,1,,,,,,,,0,1,0,,M,38,Construction Supervisor,Nesconset,NY,Naviti,TRUE,Lavita
+,14.2,Wendell Holland,2,3,,2,,11,2,Donathan,2,,,3,2,,,,,,,,1,1,1,,M,33,Furniture Company Owner,Philadelphia,PA,Yanuya,TRUE,Lavita

@@ -4,7 +4,7 @@
 1,1,Rudy,0,0.125,,1,3,8,1,Sonja,,,,,,,,1,,,,,0,8,0,0,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,FALSE,Tagi
 1,1,Sue,0,0.125,,1,,8,1,Sonja,1,,,,,,,1,,,,,0,8,0,0,F,38,Truck Driver,Palmyra,WI,Tagi,FALSE,Tagi
 1,1,Sean,0,0.125,,1,,8,1,Sonja,1,,,,,,,1,,,,,0,8,0,0,M,30,Neurosurgeon,Carle Place,NY,Tagi,FALSE,Tagi
-1,1,Colleen,0.125,0.125,,,,,,,,,,,,,,1,1,,,,1,8,0.125,0.125,M,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
+1,1,Colleen,0.125,0.125,,,,,,,,,,,,,,1,1,,,,1,8,0.125,0.125,F,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
 1,1,Gervase,0.125,0.125,,,,,,,,,,,,,,1,1,,,,1,8,0.125,0.125,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,FALSE,Pagong
 1,1,Jenna,0.125,0.125,,,,,,,,,,,,,,1,1,,,,1,8,0.125,0.125,F,22,Student,Franklin,NJ,Pagong,FALSE,Pagong
 1,1,Greg,0.125,0.125,,,,,,,,,,,,,,1,1,,,,1,8,0.125,0.125,M,24,Ivy League Graduate,Gold Hill,CO,Pagong,FALSE,Pagong
@@ -20,7 +20,7 @@
 1,2,Rudy,,0.267857143,,,,,,,,,,,,1,,1,1,0,7,0,1,7,0.142857143,0.142857143,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,FALSE,Tagi
 1,2,Sue,,0.267857143,,,,,,,,,,,,1,,1,1,0,7,0,1,7,0.142857143,0.142857143,F,38,Truck Driver,Palmyra,WI,Tagi,FALSE,Tagi
 1,2,Sean,,0.267857143,,,,,,,,,,,,1,,1,1,0,7,0,1,7,0.142857143,0.142857143,M,30,Neurosurgeon,Carle Place,NY,Tagi,FALSE,Tagi
-1,2,Colleen,,0.267857143,,1,,8,1,B.B.,1,,,,,1,1,1,,1,8,0.125,0,8,0,0.125,M,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
+1,2,Colleen,,0.267857143,,1,,8,1,B.B.,1,,,,,1,1,1,,1,8,0.125,0,8,0,0.125,F,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
 1,2,Gervase,,0.267857143,,1,,8,1,B.B.,1,,,,,1,1,1,,1,8,0.125,0,8,0,0.125,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,FALSE,Pagong
 1,2,Jenna,,0.267857143,,1,,8,1,B.B.,1,,,,,1,1,1,,1,8,0.125,0,8,0,0.125,F,22,Student,Franklin,NJ,Pagong,FALSE,Pagong
 1,2,Greg,,0.267857143,,0,,8,1,Ramona,1,,,,,1,1,1,,1,8,0.125,0,8,0,0.125,M,24,Ivy League Graduate,Gold Hill,CO,Pagong,FALSE,Pagong
@@ -35,7 +35,7 @@
 1,3,Rudy,0.142857143,0.285714286,,1,2,7,1,Stacey,,,,,,1,1,1,,1,7,0.142857143,0,7,0,0.142857143,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,FALSE,Tagi
 1,3,Sue,0.142857143,0.285714286,,1,,7,1,Stacey,1,,,,,1,1,1,,1,7,0.142857143,0,7,0,0.142857143,F,38,Truck Driver,Palmyra,WI,Tagi,FALSE,Tagi
 1,3,Sean,0.142857143,0.285714286,,1,,7,1,Stacey,1,,,,,1,1,1,,1,7,0.142857143,0,7,0,0.142857143,M,30,Neurosurgeon,Carle Place,NY,Tagi,FALSE,Tagi
-1,3,Colleen,0.142857143,0.285714286,,,,,,,,,,,,1,,1,1,0,7,0,1,7,0.142857143,0.142857143,M,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
+1,3,Colleen,0.142857143,0.285714286,,,,,,,,,,,,1,,1,1,0,7,0,1,7,0.142857143,0.142857143,F,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
 1,3,Gervase,0.142857143,0.285714286,,,,,,,,,,,,1,,1,1,0,7,0,1,7,0.142857143,0.142857143,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,FALSE,Pagong
 1,3,Jenna,0.142857143,0.285714286,,,,,,,,,,,,1,,1,1,0,7,0,1,7,0.142857143,0.142857143,F,22,Student,Franklin,NJ,Pagong,FALSE,Pagong
 1,3,Greg,0.142857143,0.285714286,,,,,,,,,,,,1,,1,1,0,7,0,1,7,0.142857143,0.142857143,M,24,Ivy League Graduate,Gold Hill,CO,Pagong,FALSE,Pagong
@@ -49,7 +49,7 @@
 1,4,Rudy,0.333333333,0.333333333,,,,,,,,,,,,1,1,1,1,1,6,0.166666667,1,6,0.166666667,0.333333333,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,FALSE,Tagi
 1,4,Sue,0.333333333,0.333333333,,,,,,,,,,,,1,1,1,1,1,6,0.166666667,1,6,0.166666667,0.333333333,F,38,Truck Driver,Palmyra,WI,Tagi,FALSE,Tagi
 1,4,Sean,0.333333333,0.333333333,,,,,,,,,,,,1,1,1,1,1,6,0.166666667,1,6,0.166666667,0.333333333,M,30,Neurosurgeon,Carle Place,NY,Tagi,FALSE,Tagi
-1,4,Colleen,0,0.30952381,,1,2,7,1,Ramona,,,,,,1,,1,,0,7,0,0,6,0,0,M,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
+1,4,Colleen,0,0.30952381,,1,2,7,1,Ramona,,,,,,1,,1,,0,7,0,0,6,0,0,F,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
 1,4,Gervase,0,0.30952381,,0,,7,1,Colleen,1,,,,,1,,1,,0,7,0,0,6,0,0,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,FALSE,Pagong
 1,4,Jenna,0,0.30952381,,1,1,7,1,Ramona,,,,,,1,,1,,0,7,0,0,6,0,0,F,22,Student,Franklin,NJ,Pagong,FALSE,Pagong
 1,4,Greg,0,0.30952381,,0,,7,1,Jenna,1,,,,,1,,1,,0,7,0,0,6,0,0,M,24,Ivy League Graduate,Gold Hill,CO,Pagong,FALSE,Pagong
@@ -62,7 +62,7 @@
 1,5,Rudy,0,0.5,1,1,1,6,1,Dirk,,,,,,1,,1,,,3,0,0,6,0,0,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,FALSE,Tagi
 1,5,Sue,0,0.5,,1,1,6,1,Dirk,,,,,,1,,1,,0,3,0,0,6,0,0,F,38,Truck Driver,Palmyra,WI,Tagi,FALSE,Tagi
 1,5,Sean,0,0.5,,0,,6,1,Rudy,1,,,,,1,,1,,0,3,0,0,6,0,0,M,30,Neurosurgeon,Carle Place,NY,Tagi,FALSE,Tagi
-1,5,Colleen,0.166666667,0.5,1,,,,,,,,,,,1,,1,1,,3,0,1,6,0.166666667,0.166666667,M,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
+1,5,Colleen,0.166666667,0.5,1,,,,,,,,,,,1,,1,1,,3,0,1,6,0.166666667,0.166666667,F,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
 1,5,Gervase,0.166666667,0.5,1,,,,,,,,,,,1,,1,1,,3,0,1,6,0.166666667,0.166666667,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,FALSE,Pagong
 1,5,Jenna,0.5,0.5,,,,,,,,,,,,1,1,1,1,1,3,0.333333333,1,6,0.166666667,0.5,F,22,Student,Franklin,NJ,Pagong,FALSE,Pagong
 1,5,Greg,0.166666667,0.5,1,,,,,,,,,,,1,,1,1,,3,0,1,6,0.166666667,0.166666667,M,24,Ivy League Graduate,Gold Hill,CO,Pagong,FALSE,Pagong
@@ -74,7 +74,7 @@
 1,6,Rudy,0,0.583333333,2,,,,,,,,,,,1,,1,,,3,0,,4,0,0,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,FALSE,Tagi
 1,6,Sue,0.25,0.583333333,,,,,,,,,,,,1,,1,1,0,3,0,1,4,0.25,0.25,F,38,Truck Driver,Palmyra,WI,Tagi,FALSE,Tagi
 1,6,Sean,0.25,0.583333333,,,,,,,,,,,,1,,1,1,0,3,0,1,4,0.25,0.25,M,30,Neurosurgeon,Carle Place,NY,Tagi,FALSE,Tagi
-1,6,Colleen,0,0.583333333,2,1,,6,1,Joel,1,,,,,1,,1,,,3,0,,4,0,0,M,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
+1,6,Colleen,0,0.583333333,2,1,,6,1,Joel,1,,,,,1,,1,,,3,0,,4,0,0,F,23,Student,Miami Beach,FL,Pagong,FALSE,Pagong
 1,6,Gervase,0.333333333,0.583333333,1,0,,6,1,Jenna,1,,,,,1,1,1,,1,3,0.333333333,,4,0,0.333333333,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,FALSE,Pagong
 1,6,Jenna,0.333333333,0.583333333,,1,2,6,1,Joel,,,,,,1,1,1,,1,3,0.333333333,0,4,0,0.333333333,F,22,Student,Franklin,NJ,Pagong,FALSE,Pagong
 1,6,Greg,0,0.583333333,1,1,,6,1,Joel,1,,,,,1,,1,,,3,0,0,4,0,0,M,24,Ivy League Graduate,Gold Hill,CO,Pagong,FALSE,Pagong
@@ -85,7 +85,7 @@
 1,7,Rudy,0,1,,1,1,10,1,Gretchen,,,,1,,,,,,,1,0,,,,0,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,TRUE,Rattana
 1,7,Sue,0,1,,1,1,10,1,Gretchen,,,,1,,,,,,,1,0,,,,0,F,38,Truck Driver,Palmyra,WI,Tagi,TRUE,Rattana
 1,7,Sean,0,1,,0,,10,1,Colleen,1,,,1,,,,,,,1,0,,,,0,M,30,Neurosurgeon,Carle Place,NY,Tagi,TRUE,Rattana
-1,7,Colleen,0,1,,0,1,10,1,Richard,,,,1,,,,,,,1,0,,,,0,M,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
+1,7,Colleen,0,1,,0,1,10,1,Richard,,,,1,,,,,,,1,0,,,,0,F,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
 1,7,Gervase,0,1,,0,1,10,1,Sue,,,,1,,,,,,,1,0,,,,0,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,TRUE,Rattana
 1,7,Jenna,0,1,,0,1,10,1,Gervase,,,,1,,,,,,,1,0,,,,0,F,22,Student,Franklin,NJ,Pagong,TRUE,Rattana
 1,7,Greg,1,1,,0,,10,1,Jenna,1,,,1,1,,,,,1,1,1,,,,1,M,24,Ivy League Graduate,Gold Hill,CO,Pagong,TRUE,Rattana
@@ -95,7 +95,7 @@
 1,8,Rudy,0,2,,1,,9,1,Greg,1,1,,1,,,,,,0,1,0,0,1,0,0,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,TRUE,Rattana
 1,8,Sue,0,2,,1,,9,1,Greg,1,1,,1,,,,,,0,1,0,0,1,0,0,F,38,Truck Driver,Palmyra,WI,Tagi,TRUE,Rattana
 1,8,Sean,0,2,,1,,9,1,Greg,1,1,,1,,,,,,0,1,0,0,1,0,0,M,30,Neurosurgeon,Carle Place,NY,Tagi,TRUE,Rattana
-1,8,Colleen,0,2,,0,,9,1,Jenna,1,1,,1,,,,,,0,1,0,0,1,0,0,M,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
+1,8,Colleen,0,2,,0,,9,1,Jenna,1,1,,1,,,,,,0,1,0,0,1,0,0,F,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
 1,8,Gervase,1,2,,0,,9,1,Jenna,1,1,,1,1,,,,,0,1,0,1,1,1,1,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,TRUE,Rattana
 1,8,Jenna,0,2,,1,3,9,1,Greg,,1,,1,,,,,,0,1,0,0,1,0,0,F,22,Student,Franklin,NJ,Pagong,TRUE,Rattana
 1,8,Greg,1,2,,0,6,9,1,Jenna,,1,1,1,,,,,,1,1,1,0,1,0,1,M,24,Ivy League Graduate,Gold Hill,CO,Pagong,TRUE,Rattana
@@ -104,7 +104,7 @@
 1,9,Rudy,1,2,,1,,8,1,Jenna,1,1,,1,1,,,,,,1,0,1,1,1,1,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,TRUE,Rattana
 1,9,Sue,0,2,,1,,8,1,Jenna,1,1,,1,,,,,,,1,0,,1,0,0,F,38,Truck Driver,Palmyra,WI,Tagi,TRUE,Rattana
 1,9,Sean,0,2,,1,1,8,1,Jenna,,1,,1,,,,,,,1,0,,1,0,0,M,30,Neurosurgeon,Carle Place,NY,Tagi,TRUE,Rattana
-1,9,Colleen,1,2,,0,,8,1,Richard,1,1,1,1,,,,,,1,1,1,,1,0,1,M,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
+1,9,Colleen,1,2,,0,,8,1,Richard,1,1,1,1,,,,,,1,1,1,,1,0,1,F,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
 1,9,Gervase,0,2,,0,,8,1,Richard,1,1,,1,,,,,,,1,0,,1,0,0,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,TRUE,Rattana
 1,9,Jenna,0,2,,0,4,8,1,Richard,,1,,1,,,,,,,1,0,,1,0,0,F,22,Student,Franklin,NJ,Pagong,TRUE,Rattana
 1,10,Richard,1,2,,1,,7,1,Gervase,1,1,,1,1,,,,,0,1,0,1,1,1,1,M,38,Corporate Trainer,Newport,RI,Tagi,TRUE,Rattana
@@ -112,14 +112,14 @@
 1,10,Rudy,0,2,,1,,7,1,Gervase,1,1,,1,,,,,,0,1,0,,1,0,0,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,TRUE,Rattana
 1,10,Sue,0,2,,1,,7,1,Gervase,1,1,,1,,,,,,0,1,0,,1,0,0,F,38,Truck Driver,Palmyra,WI,Tagi,TRUE,Rattana
 1,10,Sean,0,2,,1,2,7,1,Gervase,,1,,1,,,,,,0,1,0,,1,0,0,M,30,Neurosurgeon,Carle Place,NY,Tagi,TRUE,Rattana
-1,10,Colleen,0,2,,0,,7,1,Sean,1,1,,1,,,,,,0,1,0,,1,0,0,M,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
+1,10,Colleen,0,2,,0,,7,1,Sean,1,1,,1,,,,,,0,1,0,,1,0,0,F,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
 1,10,Gervase,1,2,,0,5,7,1,Sean,,1,1,1,,,,,,1,1,1,,1,0,1,M,30,YMCA Basketball Coach,Willingboro,NJ,Pagong,TRUE,Rattana
 1,11,Richard,0,3,,1,,6,1,Colleen,1,2,,1,,,,,,0,1,0,0,1,0,0,M,38,Corporate Trainer,Newport,RI,Tagi,TRUE,Rattana
 1,11,Kelly W,1,3,,0,,6,1,Sean,1,2,,1,1,,,,,0,1,0,1,1,1,1,F,22,River Rafting Guide,Kernville,CA,Tagi,TRUE,Rattana
 1,11,Rudy,0,3,,1,,6,1,Colleen,1,2,,1,,,,,,0,1,0,0,1,0,0,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,TRUE,Rattana
 1,11,Sue,0,3,,1,,6,1,Colleen,1,2,,1,,,,,,0,1,0,0,1,0,0,F,38,Truck Driver,Palmyra,WI,Tagi,TRUE,Rattana
 1,11,Sean,1,3,,1,2,6,1,Colleen,,2,1,1,,,,,,1,1,1,0,1,0,1,M,30,Neurosurgeon,Carle Place,NY,Tagi,TRUE,Rattana
-1,11,Colleen,0,3,,0,4,6,1,Sean,,2,1,1,,,,,,1,1,1,0,1,0,0,M,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
+1,11,Colleen,0,3,,0,4,6,1,Sean,,2,1,1,,,,,,1,1,1,0,1,0,0,F,23,Student,Miami Beach,FL,Pagong,TRUE,Rattana
 1,12,Richard,0,2,,1,,5,1,Sean,1,1,,1,,,,,,,1,0,,1,0,0,M,38,Corporate Trainer,Newport,RI,Tagi,TRUE,Rattana
 1,12,Kelly W,2,2,,1,,5,1,Sean,1,1,1,1,1,,,,,1,1,1,1,1,1,2,F,22,River Rafting Guide,Kernville,CA,Tagi,TRUE,Rattana
 1,12,Rudy,0,2,,1,,5,1,Sean,1,1,,1,,,,,,,1,0,,1,0,0,M,72,Retired Navy SEAL,Virginia Beach,VA,Tagi,TRUE,Rattana
